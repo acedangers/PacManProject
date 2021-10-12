@@ -35,3 +35,4 @@ D:\VSprojects\PacManProject\PacManProject\obj\Debug\net5.0\PacManProject.dll
 D:\VSprojects\PacManProject\PacManProject\obj\Debug\net5.0\ref\PacManProject.dll
 D:\VSprojects\PacManProject\PacManProject\obj\Debug\net5.0\PacManProject.pdb
 D:\VSprojects\PacManProject\PacManProject\obj\Debug\net5.0\PacManProject.genruntimeconfig.cache
+D:\VSprojects\PacManProject\PacManProject\bin\Debug\net5.0\PacManProject.dll.config
