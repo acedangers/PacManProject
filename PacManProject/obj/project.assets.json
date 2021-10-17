@@ -1030,11 +1030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSprojects\\PacManProject\\PacManProject\\PacManProject.csproj",
-      "projectName": "PacManProject",
-      "projectPath": "D:\\VSprojects\\PacManProject\\PacManProject\\PacManProject.csproj",
+      "projectUniqueName": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DataAcess.csproj",
+      "projectName": "PacManProject.DataAcess",
+      "projectPath": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DataAcess.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\VSprojects\\PacManProject\\PacManProject\\obj\\",
+      "outputPath": "D:\\GitHub\\PacManProject\\PacManProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

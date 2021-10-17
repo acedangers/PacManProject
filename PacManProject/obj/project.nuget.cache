@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahJUR3zqNHBqQ3Dc/4/VuWrCkzSA1Rv/GUyWXEIkIdXctj1p1VNckat31FUeepuwOlDEv8yo5rG5E22GUXJatg==",
+  "dgSpecHash": "sZwuBkO1SUggaLGfdjyfJncPr/isnRDizURTu4eR7sBJT9aLZe1wNYUJVR05VJn7rNOb4P4v9JHf2es0/V44Yg==",
   "success": true,
-  "projectFilePath": "D:\\VSprojects\\PacManProject\\PacManProject\\PacManProject.csproj",
+  "projectFilePath": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DataAcess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

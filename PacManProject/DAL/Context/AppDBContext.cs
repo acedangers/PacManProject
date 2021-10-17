@@ -7,16 +7,16 @@ using System.Threading.Tasks;
 
 namespace PacManProject
 {
-    public class MyDBContext : DbContext
+    public class AppDBContext : DbContext
     {
-        public MyDBContext() : base("PacManProject")
+        public AppDBContext() : base("DefaultConnection")
         {
 
         }
 
-        public DbSet<WallsAndDots> WallsAndDots { get; set; }
+        public DbSet<MapObject> MapObjects { get; set; }
         public DbSet<Map> Maps { get; set; }
-        public DbSet<Entity> Entities { get; set; }
+        public DbSet<GameCharacter> GameCharacters { get; set; }
         public DbSet<Player> Players { get; set; }
     }
 }

@@ -9,10 +9,10 @@ namespace PacManProject
     public class Map
     {
         public int Id { get; set; }
-        public int width { get; set; }
-        public int height { get; set; }
+        public int Width { get; set; }
+        public int Height { get; set; }
 
-        public virtual ICollection<WallsAndDots> WallsAndDots { get; set; }
-        public virtual ICollection<Entity> Entities { get; set; }
+        public virtual ICollection<MapObject> WallsAndDots { get; set; }
+        public virtual ICollection<GameCharacter> Entities { get; set; }
     }
 }

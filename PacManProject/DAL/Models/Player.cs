@@ -9,10 +9,10 @@ namespace PacManProject
     public class Player
     {
         public int Id { get; set; }
-        public string firstName { get; set; }
-        public string secondName { get; set; }
-        public string email { get; set; }
+        public string FirstName { get; set; }
+        public string SecondName { get; set; }
+        public string Email { get; set; }
 
-        public virtual ICollection<Entity> Entities { get; set; }
+        public virtual ICollection<GameCharacter> Entities { get; set; }
     }
 }

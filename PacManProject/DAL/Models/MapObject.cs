@@ -6,14 +6,15 @@ using System.Threading.Tasks;
 
 namespace PacManProject
 {
-    public class WallsAndDots
+    public class MapObject
     {
         public int Id { get; set; }
-        public int positionX { get; set; }
-        public int positionY { get; set; }
-        public string type { get; set; }
+        public int PositionX { get; set; }
+        public int PositionY { get; set; }
         
-        public int mapId { get; set; }
+        public enum Type { Wall, Dot, PowerDot }
+        
+        public int MapId { get; set; }
         public virtual Map Map { get; set; }
     }
 }

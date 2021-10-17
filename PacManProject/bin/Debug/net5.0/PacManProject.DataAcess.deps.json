@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "PacManProject/1.0.0": {
+      "PacManProject.DataAcess/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4"
         },
         "runtime": {
-          "PacManProject.dll": {}
+          "PacManProject.DataAcess.dll": {}
         }
       },
       "EntityFramework/6.4.4": {
@@ -225,7 +225,7 @@
     }
   },
   "libraries": {
-    "PacManProject/1.0.0": {
+    "PacManProject.DataAcess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

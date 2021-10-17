@@ -8,9 +8,9 @@ namespace PacManProject.DAL.Interfaces
 {
     public interface IUnitOfWork
     {
-        IRepository<Entity> entity { get; }
+        IRepository<GameCharacter> gameCharacter { get; }
         IRepository<Map> map { get; }
         IRepository<Player> player { get; }
-        IRepository<WallsAndDots> wallsAndDots { get; }
+        IRepository<MapObject> mapObject { get; }
     }
 }

@@ -9,36 +9,36 @@ namespace PacManProject.DAL
 {
     public class UnitOfWork: IUnitOfWork
     {
-        GameDBContext _context;
+        AppDBContext _context;
 
-        public UnitOfWork(GameDBContext context)
+        public UnitOfWork(AppDBContext context)
         {
             _context = context;
         }
 
-        IRepository<Entity> _entity;
+        IRepository<GameCharacter> _gameCharacter;
         IRepository<Map> _map;
         IRepository<Player> _player;
-        IRepository<WallsAndDots> _wallsAndDots;
+        IRepository<MapObject> _mapObject;
 
-        public IRepository<Entity> entity
+        public IRepository<GameCharacter> gameCharacter
         {
-            get { return _entity ??= new GameRepository<Entity>(_context); }
+            get { return _gameCharacter ??= new BaseRepository<GameCharacter>(_context); }
         }
 
         public IRepository<Map> map
         {
-            get { return _map ??= new GameRepository<Map>(_context); }
+            get { return _map ??= new BaseRepository<Map>(_context); }
         }
 
         public IRepository<Player> player
         {
-            get { return _player ??= new GameRepository<Player>(_context); }
+            get { return _player ??= new BaseRepository<Player>(_context); }
         }
 
-        public IRepository<WallsAndDots> wallsAndDots
+        public IRepository<MapObject> mapObject
         {
-            get { return _wallsAndDots ??= new GameRepository<WallsAndDots>(_context); }
+            get { return _mapObject ??= new BaseRepository<MapObject>(_context); }
         }
     }
 }

@@ -8,11 +8,11 @@ using System.Data.Entity;
 
 namespace PacManProject.DAL
 {
-    public class GameRepository<T> : IRepository<T> where T : class
+    public class BaseRepository<T> : IRepository<T> where T : class
     {
-        GameDBContext gameContext;
+        AppDBContext gameContext;
 
-        public GameRepository(GameDBContext context)
+        public BaseRepository(AppDBContext context)
         {
             gameContext = context;
         }
