@@ -1030,9 +1030,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DataAcess.csproj",
-      "projectName": "PacManProject.DataAcess",
-      "projectPath": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DataAcess.csproj",
+      "projectUniqueName": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DAL.csproj",
+      "projectName": "PacManProject.DAL",
+      "projectPath": "D:\\GitHub\\PacManProject\\PacManProject\\PacManProject.DAL.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\PacManProject\\PacManProject\\obj\\",
       "projectStyle": "PackageReference",

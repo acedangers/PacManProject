@@ -1,0 +1,16 @@
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\PacManProject.BusinessLogic.deps.json
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\PacManProject.BusinessLogic.dll
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\ref\PacManProject.BusinessLogic.dll
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\PacManProject.BusinessLogic.pdb
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.csprojAssemblyReference.cache
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.AssemblyInfoInputs.cache
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.AssemblyInfo.cs
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.dll
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\ref\PacManProject.BusinessLogic.dll
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.pdb
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\PacManProject.DataAccess.dll
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\PacManProject.DataAccess.pdb
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\obj\Debug\net5.0\PacManProject.BusinessLogic.csproj.CopyComplete
+D:\GitHub\PacManProject\PacManProject.BusinessLogic\bin\Debug\net5.0\appconfig.json

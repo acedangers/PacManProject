@@ -1,0 +1,16 @@
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\PacManProject.DataAccess.deps.json
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\PacManProject.DataAccess.dll
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\ref\PacManProject.DataAccess.dll
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\PacManProject.DataAccess.pdb
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.AssemblyInfoInputs.cache
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.AssemblyInfo.cs
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.dll
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\ref\PacManProject.DataAccess.dll
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.pdb
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.csprojAssemblyReference.cache
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\PacManProject.DataAccess.runtimeconfig.json
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\PacManProject.DataAccess.runtimeconfig.dev.json
+D:\GitHub\PacManProject\PacManProject.DataAccess\obj\Debug\net5.0\PacManProject.DataAccess.genruntimeconfig.cache
+D:\GitHub\PacManProject\PacManProject.DataAccess\bin\Debug\net5.0\appconfig.json
