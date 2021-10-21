@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PacManProject.DataAccess.DAL.Models;
 
-namespace PacManProject.DAL.Interfaces
+namespace PacManProject.DataAccess.DAL.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {

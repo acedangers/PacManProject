@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacManProject.BusinessLogic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacManProject.DataAccess", "PacManProject.DataAccess\PacManProject.DataAccess.csproj", "{87EFC993-FA80-463F-B057-C8CC223F39E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManProject.UI", "PacManProject.UI\PacManProject.UI.csproj", "{E777D760-9BFF-410C-905A-F66C3CE6C6CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManProject.API", "PacManProject.API\PacManProject.API.csproj", "{524102CC-6062-44B4-AA44-469932971818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{87EFC993-FA80-463F-B057-C8CC223F39E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87EFC993-FA80-463F-B057-C8CC223F39E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87EFC993-FA80-463F-B057-C8CC223F39E3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E777D760-9BFF-410C-905A-F66C3CE6C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E777D760-9BFF-410C-905A-F66C3CE6C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E777D760-9BFF-410C-905A-F66C3CE6C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E777D760-9BFF-410C-905A-F66C3CE6C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524102CC-6062-44B4-AA44-469932971818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524102CC-6062-44B4-AA44-469932971818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524102CC-6062-44B4-AA44-469932971818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524102CC-6062-44B4-AA44-469932971818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

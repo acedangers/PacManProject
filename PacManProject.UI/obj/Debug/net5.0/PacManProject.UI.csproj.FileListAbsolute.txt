@@ -72,3 +72,4 @@ D:\GitHub\PacManProject\PacManProject.UI\bin\Debug\net5.0\PacManProject.DataAcce
 D:\GitHub\PacManProject\PacManProject.UI\bin\Debug\net5.0\PacManProject.BusinessLogic.pdb
 D:\GitHub\PacManProject\PacManProject.UI\bin\Debug\net5.0\PacManProject.DataAccess.pdb
 D:\GitHub\PacManProject\PacManProject.UI\obj\Debug\net5.0\PacManProject.UI.csproj.CopyComplete
+D:\GitHub\PacManProject\PacManProject.UI\bin\Debug\net5.0\AutoMapper.dll

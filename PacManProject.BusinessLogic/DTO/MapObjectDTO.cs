@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PacManProject.BusinessLogic.DTO
 {
-    class MapObjectDTO
+    public class MapObjectDTO
     {
         public int Id { get; set; }
         public int PositionX { get; set; }

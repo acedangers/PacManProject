@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PacManProject.BusinessLogic.DTO
 {
-    class GameCharacterDTO
+    public class GameCharacterDTO
     {
         public int Id { get; set; }
         public int Width { get; set; }

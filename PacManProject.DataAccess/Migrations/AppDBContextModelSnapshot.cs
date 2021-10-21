@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PacManProject;
+using PacManProject.DataAccess.DAL.Context;
 
 namespace PacManProject.DataAccess.Migrations
 {

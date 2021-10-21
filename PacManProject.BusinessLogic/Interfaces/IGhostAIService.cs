@@ -9,6 +9,7 @@ namespace PacManProject.BusinessLogic.Infrastructure
 {
     interface IGhostAIService
     {
-        void Control(GameCharacterDTO gameCharacterDto);
+        void Control(GameCharacterDTO ghost);
+        IEnumerable<GameCharacterDTO> GetGameCharacters();
     }
 }

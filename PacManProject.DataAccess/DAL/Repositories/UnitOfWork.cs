@@ -1,7 +1,9 @@
-﻿using PacManProject.DAL.Interfaces;
+﻿using PacManProject.DataAccess.DAL.Interfaces;
+using PacManProject.DataAccess.DAL.Models;
+using PacManProject.DataAccess.DAL.Context;
 using System;
 
-namespace PacManProject.DAL
+namespace PacManProject.DataAccess.DAL.Repositories
 {
     public class UnitOfWork : IUnitOfWork
     {

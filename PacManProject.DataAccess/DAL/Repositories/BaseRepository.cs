@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using PacManProject.DAL.Interfaces;
+using PacManProject.DataAccess.DAL.Interfaces;
+using PacManProject.DataAccess.DAL.Context;
 
-namespace PacManProject.DAL
+namespace PacManProject.DataAccess.DAL.Repositories
 {
     public class BaseRepository<T> : IRepository<T> where T : class
     {

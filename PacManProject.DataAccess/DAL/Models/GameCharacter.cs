@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PacManProject
+namespace PacManProject.DataAccess.DAL.Models
 {
     public class GameCharacter
     {
@@ -15,6 +15,7 @@ namespace PacManProject
         public int PositionY { get; set; }
         public int Speed { get; set; }
         public bool IsWeak { get; set; }
+        public enum Direction {Up, Down, Right, Left }
         
         public enum Type { PacMan, RedGhost, GreenGhost, BlueGhost, YellowGhost }
         

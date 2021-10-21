@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using PacManProject.DAL;
+using PacManProject.DataAccess.DAL.Models;
 
 
-namespace PacManProject
+namespace PacManProject.DataAccess.DAL.Context
 {
     public class AppDBContext : DbContext
     {
@@ -22,7 +22,7 @@ namespace PacManProject
             }
         }
 
-        public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
+        public AppDBContext(DbContextOptions<AppDBContext> options ) : base(options)
         {
 
         }

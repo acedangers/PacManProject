@@ -5,12 +5,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PacManProject;
+using PacManProject.DataAccess.DAL.Context;
 
 namespace PacManProject.DataAccess.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    [Migration("20211017185125_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20211020123409_DirectionProperty")]
+    partial class DirectionProperty
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

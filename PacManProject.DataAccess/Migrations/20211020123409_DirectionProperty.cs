@@ -2,7 +2,7 @@
 
 namespace PacManProject.DataAccess.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class DirectionProperty : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PacManProject.DataAccess.DAL.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +17,15 @@ namespace PacManProject.DataAccess.DAL.Context
                 {
                     Width = 224,
                     Height = 288,
+                };
+                new GameCharacter
+                {
+                    Width = 8,
+                    Height = 8,
+                    PositionX = 0,
+                    PositionY = 0,
+                    Speed = 10,
+                    IsWeak = false,
                 };
             }
         }

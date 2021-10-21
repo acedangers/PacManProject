@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PacManProject.DAL.Interfaces
+namespace PacManProject.DataAccess.DAL.Interfaces
 {
     public interface IRepository<T> where T : class
     {
